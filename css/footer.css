@@ -1,0 +1,15 @@
+footer {
+  background-color: black;
+  color: white !important;
+  padding-top: 7px;
+  padding-bottom: 15px;
+}
+
+a.text-white {
+  color: white !important;
+  text-decoration: none;
+}
+
+.nav-text {
+  display: inline-block;
+}
